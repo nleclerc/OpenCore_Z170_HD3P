@@ -229,6 +229,8 @@
 			<false/>
 			<key>SyncRuntimePermissions</key>
 			<false/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -1226,6 +1228,8 @@
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
 			<false/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 		</dict>
 		<key>ReservedMemory</key>
 		<array>
